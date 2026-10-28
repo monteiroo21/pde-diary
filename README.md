@@ -14,6 +14,7 @@ Every week I write down what I worked on, what I learned, the problems I ran int
 | [Week 2](diary/week-02.md) | 28 Sep - 4 Oct |
 | [Week 3](diary/week-03.md) | 5 Oct - 11 Oct |
 | [Week 4](diary/week-04.md) | 12 Oct - 18 Oct |
+| [Week 5](diary/week-05.md) | 19 Oct - 25 Oct |
 
 ## Author
 
