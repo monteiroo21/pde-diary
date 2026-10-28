@@ -17,6 +17,6 @@ Software Delivery*
 ## Work Done on Exploratory Demo
 
 - [x] Add workflow mode to the accesibility analyzer, which favours SLMs like Qwen3:4b
-- [x] Added Pydantic AI as a framework, because...
+- [x] Added Pydantic AI as a framework, because I used Pydantic to validate outputs. Additionally, LangGraph seemed more suitable to more complex, multi-agent pipelines after reading some of its documentation.
 - [x] Additionally, added Pydantic Logfire, to check traces from my agent
 - [x] Exported some agent knowledge to separate tools, introducing progressive disclosure, through three stages: Discovery, Activation and Execution
